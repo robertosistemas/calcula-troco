@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32611.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcularTrocoUtils", "CalcularTrocoUtils\CalcularTrocoUtils.csproj", "{694CECB9-3F39-49B4-94E1-FF5EF0D95C88}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcularTroco", "CalcularTroco\CalcularTroco.csproj", "{6CD1089D-6C1D-4570-AA3B-FD006D9923CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{200C6190-602C-4333-8252-A64E43607964}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{694CECB9-3F39-49B4-94E1-FF5EF0D95C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694CECB9-3F39-49B4-94E1-FF5EF0D95C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694CECB9-3F39-49B4-94E1-FF5EF0D95C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694CECB9-3F39-49B4-94E1-FF5EF0D95C88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD1089D-6C1D-4570-AA3B-FD006D9923CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD1089D-6C1D-4570-AA3B-FD006D9923CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD1089D-6C1D-4570-AA3B-FD006D9923CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD1089D-6C1D-4570-AA3B-FD006D9923CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36BFFD48-E3AF-4D67-BD11-2B711C3017F1}
+	EndGlobalSection
+EndGlobal
